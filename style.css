@@ -1,0 +1,67 @@
+
+.text{
+	border: solid;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding:10px 10px 10px 10px;
+	float: left;
+
+}
+.img{
+	width: 1400px;
+	height: 500px;
+	background-image: url(banner-1.png);
+	border: solid red;
+	background-repeat: no-repeat;
+	text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    color: blue;
+}
+
+.text1{
+	border: solid;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding:10px 10px 10px 10px;
+	float: left;
+
+}
+.text2{
+	border: solid;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding:10px 10px 10px 10px;
+	float: left;
+
+}
+.text3{
+	border: solid;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding:10px 10px 10px 10px;
+	clear: left;
+
+}
+div.vinod{
+	width: 100px;
+	height: 100px;
+	outline-style: dotted;
+	outline-color: blue;
+	outline-width: 10px;
+	border: solid;
+	outline-offset: 5px;
+	float: left;
+}
+p {
+    border: 2px solid black;
+    outline: #4CAF50 solid 10px;
+    margin: auto;    
+    padding: 20px;
+    text-align: center;
+        margin-top: 15px;
+}
